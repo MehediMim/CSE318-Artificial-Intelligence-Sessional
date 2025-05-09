@@ -8,7 +8,7 @@ This repository contains my solutions to the offline assignments for the CSE318 
 
 ### 🧩 Offline 1 – N-Puzzle Solver
 Solved using A* search with various heuristics.  
-![N-Puzzle](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/15-puzzle.svg/220px-15-puzzle.svg.png)
+![N-Puzzle]([https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/15-puzzle.svg/220px-15-puzzle.svg.png](https://th.bing.com/th/id/R.fb21b0f223d76c9a3328519961aa68f6?rik=x19%2fw0jKbwqsPQ&pid=ImgRaw&r=0))
 
 ---
 
